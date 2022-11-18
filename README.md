@@ -1,1 +1,1 @@
-This is my studyBUddle project that I made for COGS 3. 
+This is my studyBuddle project that I made for COGS 3. 
